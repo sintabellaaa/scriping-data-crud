@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "Produk": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "Harga": 109.95,
+        "Kategori": "men's clothing"
+    },
+    {
+        "id": 2,
+        "Produk": "Mens Casual Premium Slim Fit T-Shirts ",
+        "Harga": 22.3,
+        "Kategori": "men's clothing"
+    },
+    {
+        "id": 3,
+        "Produk": "Mens Cotton Jacket",
+        "Harga": 55.99,
+        "Kategori": "men's clothing"
+    },
+    {
+        "id": 4,
+        "Produk": "Mens Casual Slim Fit",
+        "Harga": 15.99,
+        "Kategori": "men's clothing"
+    },
+    {
+        "id": 5,
+        "Produk": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+        "Harga": 695,
+        "Kategori": "jewelery"
+    },
+    {
+        "id": 6,
+        "Produk": "Solid Gold Petite Micropave ",
+        "Harga": 168,
+        "Kategori": "jewelery"
+    },
+    {
+        "id": 7,
+        "Produk": "White Gold Plated Princess",
+        "Harga": 9.99,
+        "Kategori": "jewelery"
+    },
+    {
+        "id": 8,
+        "Produk": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+        "Harga": 10.99,
+        "Kategori": "jewelery"
+    },
+    {
+        "id": 9,
+        "Produk": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+        "Harga": 64,
+        "Kategori": "electronics"
+    },
+    {
+        "id": 10,
+        "Produk": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+        "Harga": 109,
+        "Kategori": "electronics"
+    },
+    {
+        "id": 11,
+        "Produk": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+        "Harga": 109,
+        "Kategori": "electronics"
+    },
+    {
+        "id": 12,
+        "Produk": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+        "Harga": 114,
+        "Kategori": "electronics"
+    },
+    {
+        "id": 13,
+        "Produk": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+        "Harga": 599,
+        "Kategori": "electronics"
+    },
+    {
+        "id": 14,
+        "Produk": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+        "Harga": 999.99,
+        "Kategori": "electronics"
+    },
+    {
+        "id": 15,
+        "Produk": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+        "Harga": 56.99,
+        "Kategori": "women's clothing"
+    },
+    {
+        "id": 16,
+        "Produk": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+        "Harga": 29.95,
+        "Kategori": "women's clothing"
+    },
+    {
+        "id": 17,
+        "Produk": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+        "Harga": 39.99,
+        "Kategori": "women's clothing"
+    },
+    {
+        "id": 18,
+        "Produk": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+        "Harga": 9.85,
+        "Kategori": "women's clothing"
+    },
+    {
+        "id": 19,
+        "Produk": "Opna Women's Short Sleeve Moisture",
+        "Harga": 7.95,
+        "Kategori": "women's clothing"
+    },
+    {
+        "id": 20,
+        "Produk": "DANVOUY Womens T Shirt Casual Cotton Short",
+        "Harga": 12.99,
+        "Kategori": "women's clothing"
+    }
+]
